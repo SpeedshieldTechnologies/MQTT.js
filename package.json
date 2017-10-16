@@ -1,5 +1,5 @@
 {
-  "name": "mqtt",
+  "name": "@speedshield/mqtt",
   "description": "A library for the MQTT protocol",
   "version": "2.13.1",
   "contributors": [
